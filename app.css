@@ -1,0 +1,41 @@
+.body{
+    background:#f3f4f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bandeja-paisa{
+    width: 50%;
+    padding-left: 40px;
+    margin-top: 60px;
+}
+
+.bandeja-paisa-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: black;
+}
+
+.bandeja-paisa-description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #757575;
+}
+
+.ingrediente{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #757575;
+}
+
+.preparacion-pasos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #757575;
+}
+.preparacion-consejo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: #757575;
+}
